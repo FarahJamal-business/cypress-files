@@ -1,0 +1,9 @@
+{
+  "env":{
+    "SEARCH_WORD":"potter heads cup",
+    "forbesApiUrl":"https://www.forbes.com/tamagotchi/v1/fetchLifetimeViews/?id=blogAndPostId/blog/post/6625-61d65858aeff3c0001248fc2"
+    ,"forbesArticleUrl":"https://www.forbes.com/sites/jonathanburgos/2022/01/05/singapores-next-gen-tycoons-join-nft-craze-with-launch-of-collaboration-platform-for-entrepreneurs/?sh=209f67ec5626"
+
+  }
+  
+}
