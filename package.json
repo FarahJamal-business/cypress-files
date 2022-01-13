@@ -14,7 +14,9 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "cy:open":"cypress open --env SEARCH_URL='severus snape costume'",
-    "cy:run":"cypress run --headless --spec 'cypress/integration/tasks/*.js'"
+    "cy:run":"npx cypress run --headless --spec 'cypress/integration/tasks/task5-spec.js'",
+    "cypress:runST": "cypress run --spec cypress/integration/tasks/*-spec.js"
+
 
   },
   "eslintConfig": {
